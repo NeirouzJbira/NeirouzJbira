@@ -1,4 +1,4 @@
-# Hello World !, I'm Neirouz 👋🏻
+# Hello World ! I'm Neirouz 👋🏻
 
 I’m a full stack web developer, graduated from a bootcamp.
 I love to code things from scratch and enjoy the process of bringing new ideas to life. 

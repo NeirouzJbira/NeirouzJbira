@@ -17,7 +17,7 @@ The most important part that I never neglect is keeping my code clean, maintaina
 - [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
 - [Instagram](https://www.instagram.com/neirouz.jbira/) <br/>
 
-## Languages and Tools:
+## Languages and Tools :
 
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>

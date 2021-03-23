@@ -39,16 +39,3 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
-
----
-<table width="100%">
-<tr>
-<td width="60%">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeirouzJbira&show_icons=true" alt="NeirouzJbira" /></p>
-</td>
-<td width="40%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeirouzJbira&layout=compact" alt="NeirouzJbira" /></p>
-</td>
-</tr>
-</table>
-

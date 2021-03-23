@@ -17,7 +17,7 @@ The most important part that I never neglect is keeping my code clean, maintaina
 - [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
 - [Instagram](https://www.instagram.com/neirouz.jbira/) <br/>
 - [Medium](https://medium.com/@jbira.neirouz) <br/>
-- [DEV](https://dev.to/neirouzjbira) <br/>
+- [DEV Community](https://dev.to/neirouzjbira) <br/>
 
 ## Languages and Tools :
 

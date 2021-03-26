@@ -1,4 +1,6 @@
 # Hello World ! I'm Neirouz 👋🏻
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NeirouzJbira.visitor-badge)
+<br>
 
 I’m a full stack web developer, graduated from a bootcamp.
 I love to code things from scratch and enjoy the process of bringing new ideas to life. 

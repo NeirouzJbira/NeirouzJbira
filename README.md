@@ -18,8 +18,8 @@ The most important part that I never neglect is keeping my code clean, maintaina
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/neirouzjbira/) <br/>
-- [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
-- [Instagram](https://www.instagram.com/neirouz.jbira/) <br/>
+<!-- - [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
+- [Instagram](https://www.instagram.com/neirouz.jbira/) <br/> -->
 <!-- - [Medium](https://medium.com/@jbira.neirouz) <br/>
 - [DEV Community](https://dev.to/neirouzjbira) <br/>
 - [HashNode](https://hashnode.com/@NeirouzJbira) <br/> -->

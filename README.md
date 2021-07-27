@@ -41,7 +41,6 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
 <img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
 <img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>
-<img width="40" height="40" alt="gatsby" src="./icons/gatsby-plain.svg"/>
 <img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
 <img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>

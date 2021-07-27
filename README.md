@@ -46,3 +46,4 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
+<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>

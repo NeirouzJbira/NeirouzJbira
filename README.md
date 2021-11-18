@@ -1,26 +1,30 @@
 # Hello World ! I'm Neirouz 👋🏻
 
 I’m a full stack web developer, graduated from a bootcamp.
-I love to code things from scratch and enjoy the process of bringing new ideas to life. 
+I love to code things from scratch and enjoy the process of bringing new ideas to life.
 The most important part that I never neglect is keeping my code clean, maintainable and easy to understand.
 
-
 ## My Values
+
 🧠 Thoughtful & Inclusive Development <br/>
 🖤 Authentic Expression <br/>
 💡 Mindset of Learning & Curiosity <br/>
 🙌 Teamwork & Communication
 
-## 👩‍💻 Projects I've built
-- <a href = "https://github.com/NeirouzJbira/List-Of-My-Projects">List Of My Projects</a>
+## Some Good Resources
 
+💻 [Resources For Developers](https://github.com/NeirouzJbira/Some-Good-Resources)
+
+## 👩‍💻 Projects I've built
+
+- <a href = "https://github.com/NeirouzJbira/List-Of-My-Projects">List Of My Projects</a>
 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/neirouzjbira/) <br/>
-- [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
 - [Instagram](https://www.instagram.com/neirouz.jbira/) <br/>
-<!-- - [Medium](https://medium.com/@jbira.neirouz) <br/>
+<!-- - [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
+- [Medium](https://medium.com/@jbira.neirouz) <br/>
 - [DEV Community](https://dev.to/neirouzjbira) <br/>
 - [HashNode](https://hashnode.com/@NeirouzJbira) <br/> -->
 
@@ -53,4 +57,3 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
 <img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
-

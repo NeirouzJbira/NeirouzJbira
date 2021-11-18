@@ -11,13 +11,13 @@ The most important part that I never neglect is keeping my code clean, maintaina
 💡 Mindset of Learning & Curiosity <br/>
 🙌 Teamwork & Communication
 
-## Some Good Resources
-
-💻 [Resources For Developers](https://github.com/NeirouzJbira/Some-Good-Resources)
-
 ## 👩‍💻 Projects I've built
 
 - <a href = "https://github.com/NeirouzJbira/List-Of-My-Projects">List Of My Projects</a>
+
+## Some Good Resources
+
+💻 [Resources For Developers](https://github.com/NeirouzJbira/Some-Good-Resources)
 
 ## Connect With Me
 

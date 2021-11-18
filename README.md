@@ -4,7 +4,7 @@ I’m a full stack web developer, graduated from a bootcamp.
 I love to code things from scratch and enjoy the process of bringing new ideas to life.
 The most important part that I never neglect is keeping my code clean, maintainable and easy to understand.
 
-## My Values
+## 🧿 My Values
 
 🧠 Thoughtful & Inclusive Development <br/>
 🖤 Authentic Expression <br/>
@@ -15,11 +15,11 @@ The most important part that I never neglect is keeping my code clean, maintaina
 
 🥇 <a href = "https://github.com/NeirouzJbira/List-Of-My-Projects">List Of My Projects</a>
 
-## Some Good Resources
+## 🔥 Some Good Resources
 
 💻 [Resources For Developers](https://github.com/NeirouzJbira/Some-Good-Resources)
 
-## Connect With Me
+## 🤝🏻 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/neirouzjbira/) <br/>
 - [Instagram](https://www.instagram.com/neirouz.jbira/) <br/>

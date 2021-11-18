@@ -13,7 +13,7 @@ The most important part that I never neglect is keeping my code clean, maintaina
 
 ## 👩‍💻 Projects I've built
 
-- <a href = "https://github.com/NeirouzJbira/List-Of-My-Projects">List Of My Projects</a>
+🥇 <a href = "https://github.com/NeirouzJbira/List-Of-My-Projects">List Of My Projects</a>
 
 ## Some Good Resources
 

@@ -57,3 +57,4 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
 <img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
+<img width="40" height="40" alt="python" src="./icons/python-original.svg">

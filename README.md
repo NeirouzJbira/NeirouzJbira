@@ -39,11 +39,11 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
 <img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
 <img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
-<img width="40" height="40" alt="angular" src="./icons/angularjs-plain.svg"/>
-<img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
+<img width="40" height="40" alt="angular" src="./icons/angularjs-original.svg"/>
+<img width="40" height="40" alt="vuejs" src="./icons/vue-original.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
 <img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
-<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
+<img width="40" height="40" alt="nodejs" src="./icons/node-original.svg"/>
 <img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>
 <img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
 <img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>

@@ -56,8 +56,9 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="babel" src="./icons/babel-original.svg"/>
 <img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
 <img width="40" height="40" alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
-<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
+<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
+<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
 <img width="40" height="40" alt="python" src="./icons/python-original.svg">
 
 ---

@@ -19,11 +19,11 @@ The most important part that I never neglect is keeping my code clean, maintaina
 
 💻 [Resources For Developers](https://github.com/NeirouzJbira/Some-Good-Resources) -->
 
-## 🤝🏻 Connect With Me
+<!-- ## 🤝🏻 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/neirouzjbira/) <br/>
 - [Instagram](https://www.instagram.com/neirouz.jbira/) <br/>
-<!-- - [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
+- [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
 - [Medium](https://medium.com/@jbira.neirouz) <br/>
 - [DEV Community](https://dev.to/neirouzjbira) <br/>
 - [HashNode](https://hashnode.com/@NeirouzJbira) <br/> -->

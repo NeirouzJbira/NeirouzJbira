@@ -15,23 +15,11 @@ The most important part that I never neglect is keeping my code clean, maintaina
 
 🥇 <a href = "https://github.com/NeirouzJbira/List-Of-My-Projects">List Of My Projects</a>
 
-<!-- ## 🔥 Some Good Resources
-
-💻 [Resources For Developers](https://github.com/NeirouzJbira/Some-Good-Resources) -->
-
-<!-- ## 🤝🏻 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/neirouzjbira/) <br/>
-- [Instagram](https://www.instagram.com/neirouz.jbira/) <br/>
-- [Facebook](https://www.facebook.com/NeirouzJbira/) <br/>
-- [Medium](https://medium.com/@jbira.neirouz) <br/>
-- [DEV Community](https://dev.to/neirouzjbira) <br/>
-- [HashNode](https://hashnode.com/@NeirouzJbira) <br/> -->
-
 ## Languages and Tools :
 
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="40" height="40" alt="typescript" src="./icons/es6.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
 <img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
@@ -42,6 +30,8 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="angular" src="./icons/angularjs-original.svg"/>
 <img width="40" height="40" alt="vuejs" src="./icons/vue-original.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
+<img width="40" height="40" alt="bootstrap" src="./icons/d3.svg"/>
+<img width="40" height="40" alt="bootstrap" src="./icons/gatsby.svg"/>
 <img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
 <img width="40" height="40" alt="nodejs" src="./icons/node-original.svg"/>
 <img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>

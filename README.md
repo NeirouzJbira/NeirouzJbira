@@ -30,7 +30,6 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="angular" src="./icons/angularjs-original.svg"/>
 <img width="40" height="40" alt="vuejs" src="./icons/vue-original.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-<img width="40" height="40" alt="bootstrap" src="./icons/d3.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./icons/gatsby.svg"/>
 <img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
 <img width="40" height="40" alt="nodejs" src="./icons/node-original.svg"/>

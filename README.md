@@ -51,7 +51,7 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <img width="40" height="40" alt="python" src="./icons/python-original.svg">
 <img width="50" height="50" alt="python" src="./icons/flask-original.svg">
 
----
+<!-- ---
 
 <table width="100%">
 <tr>
@@ -62,4 +62,4 @@ The most important part that I never neglect is keeping my code clean, maintaina
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeirouzJbira&layout=compact" alt="NeirouzJbira" /></p>
 </td>
 </tr>
-</table>
+</table> -->
